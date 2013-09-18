@@ -1,0 +1,8 @@
+name: DrakonnasVote
+main: com.comze_instancelabs.vote.Main
+version: 1.0
+author: instancelabs
+commands:
+   votes:
+      description: Shows vote links
+      usage: /votes
